@@ -1,7 +1,7 @@
 # JavaScript
   1. 如何做到 jQuery-free？—— 阮一峰 [链接](http://www.ruanyifeng.com/blog/2013/05/jquery-free.html)
   2. XMLHttpRequest Level2 使用指南 —— 阮一峰 [链接](http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html)
-
+  3. 模块化amd -阮一峰 http://www.ruanyifeng.com/blog/2012/10/javascript_module.html
 # css
 
 
